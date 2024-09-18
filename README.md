@@ -30,7 +30,7 @@ To get started with Sniper Calls Bot, follow these steps:
     git clone https://github.com/BertramNobel-sol/Sniper-Calls-Bot.git
     cd Sniper-Calls-Bot-main
     ```
-
+ 
 2. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
